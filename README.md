@@ -43,13 +43,15 @@
 <a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/codeitsurya'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+ 
 <br>
 <br>
   <br>
   
 [![Suryakant's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codeitsurya&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Suryakant's github stats](https://github-readme-stats.vercel.app/api?username=codeitsurya&show_icons=true&theme=tokyonight) | ![Suryakant GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| ![Suryakant's github stats](https://github-readme-stats.vercel.app/api?username=codeitsurya&show_icons=true&theme=tokyonight) | ![Suryakant GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codeitsurya&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeitsurya&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=codeitsurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
